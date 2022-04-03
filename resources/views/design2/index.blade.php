@@ -15,46 +15,6 @@
     <div id="preloder">
         <div class="loader"></div>
     </div>
-
-    
-
-    
-    
-
-    <!-- Hero Section Begin 
-
-    <section class="hero">
-        <div class="container">
-            <div class="hero__slider owl-carousel">
-                <div class="hero__items set-bg" >
-                    <img src="images/hero/hero-1.jpg" width="500" height="500">
-                    <div class="hero__text">
-                        <h2>Fate / Stay Night: Unlimited Blade Works</h2>
-                        <p>After 30 days of travel across the world...</p>
-                        <a href="#"><span>Watch Now</span> <i class="fa fa-angle-right"></i></a>
-                    </div>
-                </div>
-
-                
-                <div class="hero__items set-bg" >
-                    <img src="images/image1.jpg" width="500" height="500">
-                    <div class="hero__text">
-                        <h2>deneme</h2>
-                        <p>fikret</p>
-                        <a href="#"><span>izle</span> <i class="fa fa-angle-right"></i></a>
-                    </div>
-                </div>
-            </div>
-            
-        </div>
-    </section>
--->
-    <!-- Hero Section End -->
-
-    <!-- Product Section Begin 
-    <nav class="navbar navbar-dark " style="padding-bottom: 1rem; background-color:#000; color:#fff">
-        sadfsfsaffsadfas
-      </nav>-->
     <section class="product spad">
 
         

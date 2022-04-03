@@ -20,7 +20,7 @@
                 <div class="col-lg-12 text-center">
                     <div class="normal__breadcrumb__text">
                         <h2>Şifre değiştir</h2>
-                        <p>Bağımsız Sosyal İçerik Platformu</p>
+                        <p>Bağımsız Sosyal İçerik Platformu </p>
                     </div>
                 </div>
             </div>
